@@ -1,4 +1,4 @@
-# Clair-QA Test Assessment: Google Cypress Tests
+# Google Cypress Tests
 
 - Here is a simple Cypress framework with E2E tests written in JavaScript
 - The tests verify certain critical functions of the Google Homepage 
